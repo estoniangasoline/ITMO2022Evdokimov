@@ -308,8 +308,8 @@ MonoBehaviour:
   moveDirection: {x: 0, y: 0, z: 0}
   speed: 3.5
   jumpSpeed: 3
-  isBoxing: 0
-  isEasyPunch: 0
+  isBoxing: 1
+  isEasyPunch: 1
 --- !u!54 &3170999148914618810
 Rigidbody:
   m_ObjectHideFlags: 0

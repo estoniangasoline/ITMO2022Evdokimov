@@ -37,7 +37,7 @@ namespace Ubavar.game.Level
         private float punchDistance = 1f;
         private float punchDelay = 0.5f;
         private float punchForce = 700;
-        private float punchForceEasy = 300;
+        private float punchForceEasy = 175;
         private RaycastHit[] tempRaycastHits = new RaycastHit[2];
         private RaycastHit[] tempRaycastHit = new RaycastHit[1];
 
